@@ -104,7 +104,10 @@ The repository contains the following files:
 ### R Script
 - lysosomal_enzyme_analysis.R
 
-## 7. References
+## 7. Conclusion
+The sequence analysis of Cathepsin C (CTSC) identified a protein consisting of 463 amino acids, with glycine as the most abundant amino acid. Four potential N-glycosylation motifs were detected at positions 29, 53, 119, and 276. These findings provide information about the protein's amino acid composition and possible glycosylation sites, although the presence of these motifs does not confirm actual glycosylation. Overall, the activity demonstrated how NCBI and R can be used to analyze protein sequences and better understand the structural characteristics of lysosomal enzymes.
+
+## 8. References
 
 National Center for Biotechnology Information. (n.d.). CTSC cathepsin C [Homo sapiens (human)]. NCBI Gene. https://www.ncbi.nlm.nih.gov/gene/1075
 
